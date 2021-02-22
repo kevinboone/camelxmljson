@@ -20,7 +20,7 @@ Both camel-json and camel-jackson make reasonable defaults about the naming
 associations between the Java, XML, and JSON, but these can be tuned
 by annotations on the Java class.
 
-** This is not production-quality code, for all sorts of reasons **
+*This is not production-quality code, for all sorts of reasons*
 
 To build and run:
 
